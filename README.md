@@ -16,7 +16,7 @@ inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
 
    ![image](https://github.com/JonatasGdeC/Desafio-Tecnico/assets/125217046/26d05220-aa33-4dcf-9601-a753ee711219)
 
-7. Com o terminal aberto, vá até a localização do arquivo javascript utilizando os seguintes códigos no terminal:
+7. Com o terminal aberto, vá até a localização do arquivo javascript utilizando os seguintes comandos no terminal:
    * ls -> Lista arquivos e pastas no seu local atual
    * cd nome_pasta -> Entra na pasta selecionada
    * cd .. -> Volta uma pasta
@@ -27,7 +27,7 @@ inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
 
    **OBS: Muito provável que você encontrará o arquivo na pasta 'Downloads'**
 
-8. Utilize o comando 'node' no terminal mais o nome do arquivo para poder rodar ele no terminal
+8. Utilize o comando 'node' em conjunto com o nome do arquivo no terminal para poder rodar o programa
 
    ![image](https://github.com/JonatasGdeC/Desafio-Tecnico/assets/125217046/98f18558-c13a-4755-849a-ab9e04ab5a25)
 
